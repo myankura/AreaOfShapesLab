@@ -1,0 +1,7 @@
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\bin\Debug\AreaOfShapesLab.exe.config
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\bin\Debug\AreaOfShapesLab.exe
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\bin\Debug\AreaOfShapesLab.pdb
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\obj\Debug\AreaOfShapesLab.csprojAssemblyReference.cache
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\obj\Debug\AreaOfShapesLab.csproj.CoreCompileInputs.cache
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\obj\Debug\AreaOfShapesLab.exe
+C:\Users\Mike\backend\AreaOfShapesLab\AreaOfShapesLab\obj\Debug\AreaOfShapesLab.pdb
